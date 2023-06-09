@@ -1,0 +1,3 @@
+secrets.txt
+# Wildcard matching character is *
+# So, *.txt will select all text files for ignoring purpose
